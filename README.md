@@ -1,2 +1,1 @@
-# Depressing-blob
-weird piggies
+# Box Class
